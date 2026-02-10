@@ -44,9 +44,9 @@ Only the project coordinator is allowed to merge changes into these branches.
 
 ## How to Use This Repository
 
-Step 1: Clone the repository
+`` Step 1: Clone the repository
 
-`git clone https://github.com/dhanushkrishna72/TDPCL.git` 
+git clone https://github.com/dhanushkrishna72/TDPCL.git
 cd TDPCL  
 
 Step 2: Switch to develop branch
@@ -86,7 +86,7 @@ Step 7: Create a Pull Request
 - Compare branch: your feature branch
 - Clearly explain what you implemented
 
-Wait for approval before merging.
+Wait for approval before merging.``
 
 ## Technology Stack
 
