@@ -46,8 +46,8 @@ Only the project coordinator is allowed to merge changes into these branches.
 
 Step 1: Clone the repository
 
-git clone https://github.com/<owner-username>/Verifi.git  
-cd Verifi  
+`git clone https://github.com/dhanushkrishna72/TDPCL.git` 
+cd TDPCL  
 
 Step 2: Switch to develop branch
 
@@ -76,7 +76,7 @@ git status
 git add .  
 git commit -m "Implemented initial logic for <module-name>"  
 
-Step 6: Push your branch
+Step 6: Push your "branch"
 
 git push origin feature/<your-module-name>  
 
